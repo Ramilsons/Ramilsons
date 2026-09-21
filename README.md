@@ -24,21 +24,25 @@
 ---
 
 <!-- CONHECIMENTOS:START -->
-<h3 align="center">< Estudando /></h3>
-
 <p align="center">
-  <img alt="React" width="42px" src="https://raw.githubusercontent.com/Ramilsons/Ramilsons/3f98f15766313c655b32f712b838492c25d0b993/icons/react.svg">
 </p>
 
 <h3 align="center">< Experiência /></h3>
 
 <p align="center">
-    <img alt="Node.js" height="42px" src="https://raw.githubusercontent.com/Ramilsons/Ramilsons/3f98f15766313c655b32f712b838492c25d0b993/icons/node.svg">
-    <img alt="Git" height="42px" src="https://raw.githubusercontent.com/Ramilsons/Ramilsons/3f98f15766313c655b32f712b838492c25d0b993/icons/git.svg">
-    <img alt="JavaScript" height="42px" src="https://raw.githubusercontent.com/Ramilsons/Ramilsons/3f98f15766313c655b32f712b838492c25d0b993/icons/javascript.svg">
-    <img alt="PHP" width="55px" src="https://raw.githubusercontent.com/Ramilsons/Ramilsons/3f98f15766313c655b32f712b838492c25d0b993/icons/php.png">
-    <img alt="CSS" height="42px" src="https://raw.githubusercontent.com/Ramilsons/Ramilsons/8e03b416f3c8b9134866bd952a84237ff903e057/icons/css.svg">
-    <img alt="HTML" height="42px" src="https://raw.githubusercontent.com/Ramilsons/Ramilsons/8e03b416f3c8b9134866bd952a84237ff903e057/icons/html.svg">
+    <img alt="Docker" height="42px" src="./icons/docker.webp">
+    <img alt="AWS" height="42px" src="./icons/aws.webp">
+    <img alt="Python" height="42px" src="./icons/python.webp">
+    <img alt="MLFlow" height="42px" src="./icons/mlflow.webp">
+    <img alt="Scikit Learn" height="42px" src="./icons/sklearn.webp">
+    <img alt="DVC" height="42px" src="./icons/dvc.png">
+    <img alt="Node.js" height="42px" src="./icons/node.svg">
+    <img alt="Git" height="42px" src="./icons/git.svg">
+    <img alt="JavaScript" height="42px" src="./icons/javascript.svg">
+    <img alt="PHP" width="55px" src="./icons/php.png">
+    <img alt="CSS" height="42px" src="./icons/css.svg">
+    <img alt="HTML" height="42px" src="./icons/html.svg">
+    <img alt="React" width="42px" src="./icons/react.svg">
 </p>
 <!-- CONHECIMENTOS:END -->
 
